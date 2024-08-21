@@ -39,8 +39,37 @@ body{
     font-size: 16px;
 }
 .preparation-time{
-    width: 450px;
-    padding: 2px;
+    width: 500px;
+    padding: 30px;
     text-align: left;
     background-color: #c8acd6;
+    margin: 40px 20px 40px 20px;
+    border-radius: 10px;
+}
+.preparation-time p{
+    padding-bottom: 20px;
+}
+.mmm{ 
+    padding: 5px;
+}
+strong{
+    color: #800000;
+}
+.ingredients{
+    padding: 20px;
+    padding-bottom: 30px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+}
+.jjj{
+    padding: 5px;
+}
+.alignment heading{
+    color: #800000;
+    padding-bottom: 20px;
+}
+.kkk{
+    padding: 5px;
+}
+.ggg{
+    padding-bottom: 10px;
+    color: #800000;
 }
